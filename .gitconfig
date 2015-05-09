@@ -1,0 +1,19 @@
+[user]
+	email = namorit@gmail.com
+	name = Naoki Morita
+[credential]
+	helper = osxkeychain
+[color]
+	ui = auto
+[core]
+	excludesfile = /Users/namorit/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[alias]
+	st = status
+	cm = commit
+	co = checkout
