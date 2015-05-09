@@ -1,5 +1,12 @@
 # dotfiles
 
+## installation
+
+```bash
+cd ~
+git clone git@github.com:morizotter/dotfiles.git && cd dotfiles
+sh install.sh
+```
 
 ## referenced dotfiles
 
