@@ -16,4 +16,5 @@
 [alias]
 	st = status
 	cm = commit
-	co = checkout
+    co = checkout
+    pom = push origin master
