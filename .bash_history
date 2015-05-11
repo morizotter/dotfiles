@@ -1,11 +1,3 @@
-gulp serve
-gulp serve
-gulp build
-gulp serve
-gulp serve
-git diff
-git add .
-git commit -m "Add translation button"
 git push origin master
 gulp serve
 gulp serve
@@ -498,3 +490,11 @@ git add .
 git st
 git commit -m "Update Controllers"
 git push origin update-controllers-issue101 
+ls
+ls -lha
+git clone git@github.com:morizotter/dotfiles.git && cd dotfiles
+ls
+sh install.sh 
+ls
+cd ..
+ls -lha
