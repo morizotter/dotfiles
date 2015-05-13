@@ -4,7 +4,7 @@ source $HOME/.git-completion.bash
 
 export PGDATA=/usr/local/var/postgres
 export PATH="/usr/local/heroku/bin:$PATH"
-export PATH=$PATH:/Users/namorit/.nodebrew/current/bin
+export PATH="$HOME/.nodebrew/current/bin:$PATH"
 export PATH="$HOME/tools/bin:$PATH"
 
 alias be="bundle exec"

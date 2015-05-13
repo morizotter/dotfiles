@@ -1,500 +1,500 @@
-git push origin master
-gulp serve
-gulp serve
-gulp build
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
+be rails s -p 3002
+be rails s -p 3002
+bundle install
+be rails s -p 3002
+vi .env.sample 
+vi .env
+vi .env.sample 
+vi .env
+be rails s -p 3002
+vi .env
+cat ../sync-messages-proto/
+cat ../sync-messages-proto/config/secrets.yml 
+ls
+vi .env
+be rails s -p 3002
+be rails s -p 3002
+be rails s -p 3002
+be rails s -p 3002
+be rails s -p 3002
+be rails s -p 3002
+be rails s -p 3002
+be hologram -h
+be hologram -h
+be hologram --h
+gem install hologram
+hologram -h
+rbenv rehash
+hologram -h
+hologram init -h
+
+open docs/basics.html 
+be hologram hologram_config.yml 
+be hologram
+be hologram hologram_config.yml 
+be hologram hologram_config.yml 
+git diff
+git st
+git st
+bundle install
+git st
+git reset vendor/bundle/*
+git st
+git co vendor/bundle/*
+git diff
+git diff --cached
+git st
+rm vendor/bundle/*
+git st
+rm -fr vendor/bundle/
+git st
+bundle install
+git br
+git diff
+git diff --cached
+source ~/.gitconfig 
+source ~/.bash_profile 
+git co organize-api-access 
+be rails s -p3002
+git st
+git st
+git add .
+git diff --cached
+git st
+git add .
+git add .
+git add .
+git st
+git st
+git st
+git add .
+git commit -m "Rename ChannelSerice to ChannelsService"
+git st
+git push origin organize-api-access 
+git merge master
+git branch
+git fetch
+git checkout master
+git branch master
+git checkout origin master
+git checkout -b master origin/master
+be rails s -p3002
+bundle install
+bundle install --path vendor/bundle
+git branch
+git remote
+git remote -v
+git st
+git add .
+git st
+be rails s
+rbenv versions
+bundle install
+git pull origin organize-api-access 
+git push origin organize-api-access 
+bundle install
+git fetch --force --quiet --tags
+"/Users/moritanaoki/Repository/wantedly/sync-messenger-rails/vendor/bundle/ruby/2.2.0/cache/bundler/git/garage-07474d1aebe1632608a169d7ba6abc269a553737"
+git fetch --force --quiet --tagsgit fetch --force --quiet --tags
+"/Users/moritanaoki/Repository/wantedly/sync-messenger-rails/vendor/bundle/ruby/2.2.0/cache/bundler/git/garage-07474d1aebe1632608a169d7ba6abc269a553737"
+git fetch --force --quiet --tags "/Users/moritanaoki/Repository/wantedly/sync-messenger-rails/vendor/bundle/ruby/2.2.0/cache/bundler/git/garage-07474d1aebe1632608a169d7ba6abc269a553737"
+git fetch --force --quiet --tags
+bundle install
+rm -fr /Users/moritanaoki/Repository/wantedly/sync-messenger-rails/vendor/bundle/ruby/2.2.0/cache/bundler/git/garage-07474d1aebe1632608a169d7ba6abc269a553737
+bundle install
+bundle install --path vendor bundle
+bundle install --path vendor/bundle
+be rails s -p3002
+cp .env.sample .env
+vi .env
+vi ../sync-messages-proto/.env
+ls
+cd ../sync-messages-proto/
+ls
+subl 0n .
+ls
+open .
+subl -n .
+be rails s -p3002
+cd ../sync-messenger-rails/
+be rails s -p3002
 git st
 git diff
+git diff --cached
+git br
+be rails s -p3002
+be rails routes
+be rails route
+be rake routes
+be rails s -p3002
+be rake routes
+be rake routes
+be rake routes
+be rake routes
+be rake routes
+be rake routes
+be rake routes
+be rails s -p3002
+be rake routes
+be rake routes
+be rails s -p3002
+be rake routes
+be rake routes
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+git s
+tgit st
+git st
+git add . -p
+y
+git st
 git add .
-git commit -m "Fix bootstrap version"
 git st
-git push origin master
+git commit -m "Separate api from view"
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rake routes
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+ls
 git st
+git st
+git rm npm-debug.log
+git st
+git br organize-api-access 
+git co organize-api-access 
+git st
+git br
+git st
+git rm npm-debug.log
+rm npm-debug.log 
+git st
+be rails s -p3002
+bundle install
+be rails s
+be rails s -p3002
+git st
+git add .
+git commit -m "Change destination for login"
+git push origin organize-api-access 
+ls
 git branch
-git push origin organize-bower 
-git co master 
-git pull
+git co install-kss 
+git co master
 git pull origin master
-gulp serve
-gulp build
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp build
-gulp build
-gulp build
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp serve
-gulp build
-gulp serve
-gulp serve
-gulp build
-gulp build
-gulp build
-gulp build
-ruby -v
-rbenv --version
-rbenv -v
-cd ~/Repositories/github/swift-functions/
-atom .
 git st
-git diff
-git add .
-git commit -m "Add registerAvailableLanguageKeys function"
-git push origin create-translation 
-bower install angular-translate-loader-static-files
-git st
-git diff
-git add .
-git commit -m "Add static files loader"
-git st
-git diff
-git add .
-git st
-git add -A
-git st
-git commit -m "Fix invalid json"
-git st
-git add -A
-git st
-git diff --cached
-git commit -m "Change translation file structure"
-git rm -fr --cached .
-git add -A
-git st
-git add .
-git st
-git diff
-git diff --cached
-git diff .gitignore
-git diff .gitignore --cached
-git diff --cached .gitignore
-git commit -m "Add node_modules and bower_components into .gitignore"
+git co install-kss 
+git branch -d organize-api-access 
+git co master 
+ls
 git branch
-git push origin create-translation 
-git log -2
+git branch -d organize-api-access 
+git co install-kss 
+git merge master
+git diff
+be rails s -p3002
+be rails s -p3002
+bundle install
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+be rails s -p3002
+cd -
+cd ~/Repository/wantedly/sync-messenger-rails/
+git branch
+git co master
+git br
+git co master
+git checkout master
+vi ~/.gitconfig 
+git co master
+cd ~/
+ls -lha
+mv git-completion.bash .git-completion.bash 
+vi .bash_profile 
+source .bash_profile 
+rm .git-completion.bash 
+wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash .git-completion.bash
+source .bash_profile 
+ls
+mv git-completion.bash .git-completion.bash 
+source .bash_profile 
+cd Repository/wantedly/sync-messenger-rails/
+git br
+git co organize-api-access 
+git co master 
+git branch
+git co -b add kss
+git co -b install-kss
+git br
+git diff
+git br -d imaimiami/proto-foundation 
+vi Gemfile
+bundle install
+be rails generate kss:install
+ls
+git diff
+git co master
+git branch -D install-kss 
+git diff
+git branch
+git diff
 git st
-git push origin create-translation 
-bower install angular-translate-storage-local --save-dev
+git reset Gemfile
+git st
+git co Gemfile
+git co Gemfile.lock
+git co config/routes.rb
+git st
+rm app/views/kss
+rm -fr app/views/kss
+git st
+rm -fr app/views/layouts/kss
+rm -fr vendor/bundle
+git st
+bundle install
+ls
+bundle install --path vendor/bundle
+git br
+git co -b install-kss
+git branch
+bundle install
+git br
+bundle install
+hologram init
+gem install horogram
+be hologram init
+cd ~/Desktop/
+mkdir kss
+cd kss/
+git clone git@github.com:jimbeaudoin/kss-rails-example.git
+ls
+cd kss-rails-example/
+bundle install
+ruby -v
+gem install bundler
+cd ..
+git clone git@github.com:kneath/kss.git
+ls
+cd kss
+ls
+cd example/
+ls
+bundle install
+ruby app.rb 
+cd .
+cd ..
+cd ..
+ls
+rm -fr kss
+cd kss-rails-example/
+ls
+git st
+git st
+git status
+cd ~/Repository/wantedly/sync-messenger-rails/
+be rake routes
+git st
+git add .
+git st
+git commit -m "Access to api/internal/accounts from angular app"
+git commit -m "Access to api/internal/accounts from angular app"
+git st
+git add .
+git commit -m "Access to api/internal/firebase from angular app"
+git push origin organize-api-access 
+be rake routes
+git st
+git add .
+git st
+git commit -m "Rename from welcome to accounts"
+git push origin organize-api-access 
+git st
+git add .
+git st
+git diff --cached
+git commit -m "Rename from FB to FirebaseService"
+git push origin organize-api-access 
+git co master
+git pull origin master
+git co organize-api-access 
+git merge master
+git st
+git push origin master
+git branhc
+git br
+git co master
+git branch -d install-kss 
+git branch install-kss
+git co install-kss 
+npm init
+git diff
+ls
+npm install -g sc5-styleguide
+node -v
+cd ..
+npm install -g sc5-styleguide
+node -h
+nodebrew -v
+nodebrew -h
+nodebrew ls-remote
+nodebrew -v
+nodebrew install v0.12.2
+cd sync-messenger-rails/
+git branch
+ls
+git st
+git br
+git st
+git diff
+git add . -p
+y
+git st
+git add app/assets/javascripts/angular/new-channel
+git st
+git commit -m "Add new-channel"
+git push origin typeahead-friend-search 
+vi .gitignore 
+git st
+git add .gitignore
+git st
+git rm -r . --cached && git add .
+git st
+git st
+git commit -m "Add .DS_Store to .gitignore"
+git st
+git push origin typeahead-friend-search 
+git st
 git st
 git diff
 git add .
-git commit -m "Add angular-translate-storage-local"
-git push origin create-translation 
+git st
+git st
+git diff --cached
+git st
+git add .
+git st
+git add .
+git st
+git add -A
+git st
+git commit -m "Add people search form"
+git push origin typeahead-friend-search 
+ls
+be bower:install
+bundle install
+be rake bower:install
+be rake bower:install
+git st
+git git add bower.json
+git add bower.json
+git commit -m "Add typeahead.js to bower.json"
+vi .gitignore 
+git st
+git add .
+git st
+git commit --amend
+git commit --amend
+git st
+git add .
+git commit --amend
+git br
+git push origin typeahead-friend-search 
+git st
+git diff 
+git add app/assets/javascripts/application.js.coffee
+git st
+git commit -m "Fix require typeaheas.js"
+git push origin typeahead-friend-search 
+ls
+ls
+git st
+be rake bower:update
+git st
+git add lib/ -A
+git st
+git add bower.json
+git st
+git commit -m "Downgrade typeahead to 0.10.5 from 0.11.1"
+git st
+git diff
+git add .
+git commit -m "Typeahead works"
+git st
+git commit --amend
+git diff
 git commit --amend
 git st
 git diff
 git add .
+git commit --amend
 git st
-git checkout src/angular/app.coffee
-git st
-git reset src/angular/app.coffee
-git st
-git add -p
-git st
-git diff --cached
-git commit -m "Add sanitization"
-git add .
-git diff --cached
-git add .
-git commit -m "Remove unused codes"
-git st
-git push origin create-translation 
-git pull origin create-translation 
 git log -2
-git push origin create-translation 
-git log -3
-git diff e241f7d10dc
+git s
+tgit st
 git st
 git diff
+git add .
+git commit -m "Search from real data"
+git git st
 git st
+git push origin typeahead-friend-search 
+git diff
+git st
+git diff
 git add .
 git st
-git diff --cached
-git commit -m "Move constants"
-git push origin create-translation 
-git co master 
+git commit -m "Add keydown"
 git branch
+git reset --soft HEAD^
+git st
+git co -b make-form-multi-selectable
+git st
+git branch
+git add .
+git commit -m "Add keydown"
+git br
+git log -2
+git st
+git diff
+git st
+git diff
+git add .
+git st
+git commit -m "Adjust input field location & erase input border"
+git st
+git st
+git br
+git push origin make-form-multi-selectable 
+git st
+git diff
+git st
+git diff
+git add .
+git commit -m "Push to tos when selected from suggestions"
+git push origin make-form-multi-selectable 
+git st
+git diff
+git add .
+git commit -m "Remove repetation from tos array"
+git push origin make-form-multi-selectable 
+git st
+git br
 git co master
-git st
-git diff
-git co master
-git co -f master
-git st
-git diff
-git diff --cached
-git st
-git diff
+git br
 git pull origin master
-git st
-git st
-git branch -d create-translation 
-ls bower_components/
-git branch organize bower_components
-git branch organize-bower-components
-git co organize-bower-components 
-bower uninstall angular-translate-loader-static-files
-bower install angular-translate-loader-static-files --save-dev
-bower uninstall angular
-less bower.json 
-git push origin organize-bower-components 
-git st
-git add .
-git st
-git commit -m "Add angular-translate-loader-static-files into save-dev"
-git push origin organize-bower-components 
-git co master
-git pull
-git pull origin master
-git branch -d organize-bower-components 
-git branch
-git st
-git diff
-git add .
-git commit -m "update gulp inject"
-npm install -g karma
-cd ..
-git clone git@github.com:morizotter/angular-translate.git
-ls
-cd angular-translate/
-ls
-git branch
-git remote update && git fetch 
-git branch
-git co -b add-japanese-translation
-npm install
-karma start
-grunt test
-grunt build
-grunt server
-grunt de
-grunt dev
-grunt server
-ls
-git branch
-git co master 
-git branch -d add-japanese-translation 
-git co -d add-jp-translation origin/canary
-git checkout -b add-jp-translation origin/canary
-npm install
-grunt test
-grunt server
-grunt build
-grunt dev
-grunt server
-ls
-cd docs/
-ls
-grunt server
-npm install -g karma
-bower install
-cd ..
-bower install
-ls
-ls dist
-ls docs/
-cd html
-ls docs/html/index.html 
-gulp server
-npm install
-grunt server
-ls dist/
-grunt server
-ls
-ls dist
-cd docs/
-ls
-cd html/
-ls
-cd ..
-ls
-cd ..
-ls
-atom .
-open docs/html/index.html 
-bower install
-atom .
-./generate_site.sh 
-open docs/html/index.html 
-cd ..
-rm -fr angular-translate
-cd swift-functions/
-atom .
-git branch
-git st
-git diff
-git add .
-git commit -m "Rename i18n to l10n"
-git push origin master
-git diff
-git diff
-git add .
-git st
-git add -A
-git st
-git diff --cached
-git add .
-git commit -m "Add language change directivve"
-git st
-git diff
-git add .
-git commit -m "Add restricts"
-git diff
-git diff
-git add .
-git st
-git commit -m "Compile scss in src directory"
-bower install angular-ui-bootstrap-bower --save-dev
-bower uninstall angular-ui-bootstrap-bower --save-dev
-git diff
-git st
-git diff
-git add -p
-git st
-git st
-git diff
-git add . -p
-git add . -p
-git st
-git diff
-git add .
-git st
-git add .
-git st
-git diff --cached
-git commit -m "separate translation config"
-git push origin master
-git branch adjust-layout
-git co adjust-layout 
-git co master 
-git co -b bootstrap-bower
-git branch
-bower install bootstrap --save-dev
-bower install underscore#1.8.3 --save-dev
-git st
-git diff
-git branch
-git branch -m bootstrap-bower organize-bower
-git st
-git add .
-git commit -m "Make bootstrap and underscore bower"
-bower install angular#1.3.15 --save-dev
-git st
-git diff
-git add .
-git commit -m "Make angular bower"
-bower uninstall bootstrap --save-dev
-bower install bootstrap#3.3.4 --save-dev
-git branch
-git branch -d organize-bower 
-git co adjust-layout 
+git co make-form-multi-selectable 
 git merge master
-git branch
-git co master
-git diff
-git branch
-git co adjust-layout 
-git diff
-git add .
-git commit -m "rename from libs to lib"
-git diff
-git add .
-git st
-git add -A
-git st
-git commit -m "Rename directory from angular to app"
-git st
-git add -A
-git st
-git commit -m "Change directory structure from component to functionality"
-git st
-git add .
-git branch
-git branch
-git co -b change-directory-structure
-git branch
-git log -3
-git log -4
-git reset HEAD^
-git reset HEAD^
-git log -2
-git reset HEAD^
-git log -2
-git st
-git add -A
-git st
-git log -2
-git add .
-git st
-git commit -m "Change directory structure"
-git st
-git branch
-git push origin change-directory-structure 
-git co master 
-git pull origin master
-git branch
-git co adjust-layout 
-git merge master 
-git st
-git st
-git branch -d change-directory-structure 
-git branch
-git st
-git diff
-git add .
-git commit -m "create sub directive"
-git st
-git add -A
-git st
-git commit -m "Add prefix to sub directives"
-git st
-git add -A
-git commit -m "Move sf-languages from common to sub"
-git st
-git add .
-git st
-git commit -m "Move translation button to sub"
-git st
-git add -A
-git st
-git commit -m "Remove sfTable"
-git st
-git add -A
-git st
-git commit -m "Rename function to sfFunclist"
-git branch
-git st
-git add -A
-git st
-git commit -m "Separate navigation from funclist"
-git st
-git add -A
-git commit -m "Move language from navigation to common"
-git st
-git diff
-git add src/app/navigation/directives/sfNavigation.coffee
-git commit -m "Remove debugger"
-git add .
-git comit -m "Add js.map"
-git commit -m "Add js.map"
-git st
-git diff
-git add .
-git add .
-git commit -m "Add simple translation"
-git st
-git diff
-git add .
-git st
-git commit -m "Change languages button size"
-git add .
-git st
-git diff
-git add .
-git commit -m "Remove controllers methods"
-git st
-git diff
-git add .
-git commit -m "Rename from languages to languagesButton"
-git st
-git add -A
-git diff --cache
-git diff --cached
-git add .
-git commit -m "Add list css"
-bower install font-awesome --save-dev
-bower uninstall font-awesome --save-dev
-git st
-git diff
-git add .
-git st
-git add .
-git diff --cached
-git add .
-git commit -m "Add style to a text"
-git st
-git diff
-git st
-git add .
-git commit -m "Make navigation scrollable"
-git st
-git diff
-qgit add .
-git diff
-git add .
-git diff
-git diff --cached
-git commit -m "Add background color"
-git diff
-cd ~/Repositories/github/angularjs-style-guide/
-git branch
-git co master
-git fetch upstream 
-git merge upstream/master 
-git push origin master
-git branch -d update-controller-naming 
-git branch fix indentation on controller section in Japanese
-git branch fix-indentation-in-controller-section-in-jp
-git co fix-indentation-in-controller-section-in-jp 
-atom .
-subl -n .
-git st
-git diff
-git add .
-git st
-git commit -m "Update controller section's indentation"
-git push origin fix-indentation-in-controller-section-in-jp 
-git st
-git diff
-git diff --cached
-git diff
-git co master
-git co -f master
-git branch
-git branch -d fix-indentation-in-controller-section-in-jp 
-git branch -D fix-indentation-in-controller-section-in-jp 
-git st
-git branch
-git branch update-controllers-issue101
-git co update-controllers-issue101 
-git add .
-git st
-git commit -m "Update Controllers"
-git push origin update-controllers-issue101 
-ls
-ls -lha
-git clone git@github.com:morizotter/dotfiles.git && cd dotfiles
-ls
-sh install.sh 
-ls
-cd ..
-ls -lha
+bundle install
+be rake db:migrate
+'/Applications/Postgres.app/Contents/Versions/9.3/bin'/psql -p5432
