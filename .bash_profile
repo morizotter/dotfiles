@@ -7,6 +7,9 @@ export PATH="/usr/local/heroku/bin:$PATH"
 export PATH="$HOME/.nodebrew/current/bin:$PATH"
 export PATH="$HOME/tools/bin:$PATH"
 
+export HISTFILESIZE=10000
+export HISTSIZE=10000
+
 alias be="bundle exec"
 alias cddt="cd ~/Desktop"
 alias cddb="cd ~/Dropbox"
