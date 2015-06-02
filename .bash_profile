@@ -11,9 +11,6 @@ export PATH="$HOME/tools/bin:$PATH"
 export HISTFILESIZE=10000
 export HISTSIZE=10000
 
-alias ls="ls -GAF"
-alias ll="ls -l"
-
 alias be="bundle exec"
 alias cddt="cd ~/Desktop"
 alias cddb="cd ~/Dropbox"
