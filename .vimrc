@@ -1,0 +1,1 @@
+imap <c-j> <esc>
