@@ -6,7 +6,7 @@
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/namorit/.gitignore_global
+	excludesfile = /Users/moritanaoki/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
@@ -19,3 +19,9 @@
 	co = checkout
 	pom = push origin master
 	br = branch
+[push]
+	default = simple
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
