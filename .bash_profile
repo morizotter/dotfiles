@@ -8,6 +8,9 @@ export PATH="/usr/local/heroku/bin:$PATH"
 export PATH="$HOME/.nodebrew/current/bin:$PATH"
 export PATH="$HOME/tools/bin:$PATH"
 
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$PATH
+
 export HISTFILESIZE=10000
 export HISTSIZE=10000
 
